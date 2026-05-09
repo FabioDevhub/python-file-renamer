@@ -12,17 +12,18 @@ Simple Python script to automatically rename files inside a folder.
 ## Example
 
 Before:
-
+```text
 photo.png
 document.txt
 music.mp3
-
+```
 
 After:
+```text
 file_1.png
 file_2.txt
 file_3.mp3
-
+```
 
 ## How to Use
 
